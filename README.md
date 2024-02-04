@@ -7,8 +7,8 @@ Important Points
 > We Have to Add The Connector-j Dependency.
 
 Important Steps 
--> Change The "Your Database's URL" string in the code with your Database's Actual URL.
--> Extract The mysql-connector-j-8.3.0.zip file.
--> It Will Produce The Folder mysql-connector-j-8.3.0.
--> In That Folder There will be a Executable Jar File Named as mysql-connector-j-8.3.0.
--> Add That Jar File in The Deppendencies.
+> 1. Change The "Your Database's URL" string in the code with your Database's Actual URL.
+> 1. Extract The mysql-connector-j-8.3.0.zip file.
+> 1. It Will Produce The Folder mysql-connector-j-8.3.0.
+> 1. In That Folder There will be a Executable Jar File Named as mysql-connector-j-8.3.0.
+> 1. Add That Jar File in The Deppendencies.
