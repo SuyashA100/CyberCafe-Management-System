@@ -546,7 +546,7 @@ public class Main implements ActionListener, EventListener {
     //All Action Listners
     @Override
     public void actionPerformed(ActionEvent e) {
-        String url = "jdbc:mysql://localhost:3306/microproject";
+        String url = "Your Database's URL";
         String dname = "root" , dpass = "";
         Main m = new Main();
         if(e.getSource() == login){
